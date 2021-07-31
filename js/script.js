@@ -9,12 +9,14 @@ let dateObj = {
       name: "snapdown",
       img: "./src/progect/snapDown.jpg",
       description: "مشروع لتحميل برامج snapcraft.io <br> بصيغه محموله .snap",
+      url : "https://superastorh.github.io/snapcraft-downloader/"
     },
     {
         name : "مذكر",
         img: "./src/progect/muzaker.png",
         description:
         "بوت لارسال الاذكار بشكل دوري ومستقبلا قد يصبح تطبيق ايضا",
+        url : "https://t.me/muzakerBot"
     }
   ],
   social: [
