@@ -17,7 +17,21 @@ let dateObj = {
         description:
         "بوت لارسال الاذكار بشكل دوري ومستقبلا قد يصبح تطبيق ايضا",
         url : "https://t.me/muzakerBot"
-    }
+    },
+    {
+        name : "موقع الف",
+        img: "./src/progect/aliflang.jpg",
+        description:
+        "موقع غير رسمي للغة الف البرمجية",
+        url : "https://superastorh.github.io/aliflang"
+    },
+    {
+        name : "موقع اعجوبة",
+        img: "./src/progect/ojuba.jpg",
+        description:
+        "موقع غير رسمي لتوزيعه ومشروع اعجوبة",
+        url : "https://superastorh.github.io/ojuba.org"
+    },
   ],
   social: [
     {
