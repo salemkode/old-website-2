@@ -9,7 +9,7 @@ let dateObj = {
       name: "snapdown",
       img: "./src/progect/snapDown.jpg",
       description: "مشروع لتحميل برامج snapcraft.io <br> بصيغه محموله .snap",
-      url : "https://simecode.github.io/snapcraft-downloader/"
+      url : "https://superastorh.github.io/snapcraft-downloader/"
     },
     {
         name : "مذكر",
@@ -23,14 +23,14 @@ let dateObj = {
         img: "./src/progect/aliflang.jpg",
         description:
         "موقع غير رسمي للغة الف البرمجية",
-        url : "https://simecode.github.io/aliflang"
+        url : "https://superastorh.github.io/aliflang"
     },
     {
         name : "موقع اعجوبة",
         img: "./src/progect/ojuba.jpg",
         description:
         "موقع غير رسمي لتوزيعه ومشروع اعجوبة",
-        url : "https://simecode.github.io/ojuba.org"
+        url : "https://superastorh.github.io/ojuba.org"
     },
   ],
   social: [
